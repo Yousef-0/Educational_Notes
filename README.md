@@ -1,2 +1,2 @@
 # Educational_Notes
-All of the educational notes posted on "Aiding Hands" and my book
+These are some of the mathematics documents that I made with LaTeX for students doing the A level syllabus. All documents were free to use. It also includes a book that covers the whole Cambridge Assesment International Education Further Pure Mathematics 1 syllabus which was distributed to schools in the city Amman. The book was catered to students self studying the subject, which is a challenge that I underwent and was able to get a 245/250 in across 4 modules, which were Further Pure Mathematics 1 and 2, Further Mechanics, Further Statistics. I poured my passion into this book, which included a history portion for each chapter, inspured by Tom Apostol's Calculus book.
